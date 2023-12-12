@@ -6,7 +6,7 @@ In this project, I use various techniques to train and evaluate a model based on
 To see the code for the credit risk classification model, please navigate to "credit_risk_classification.ipynb". The original dataset that I used to train the model is located in the "Resources" folder, under the "lending_data.csv" name. I've also written an analysis report, delineating the precision, recall and accuracy scores that the model achieved and whether this model should be used for the purpose of classifying high-risk loans. Please navigate to "report-template.md" to see my analysis. 
 
 ## Contributions
-Special thanks to the following people for their contribution to the project:
--Jefferey Chieh-Liu
--Mortaza Rezae
+Special thanks to the following people for their contribution to the project:\
+-Jefferey Chieh-Liu\
+-Mortaza Rezae\
 -BCS assistants
