@@ -20,7 +20,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 Summarise the results of the machine learning models, and include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning. For example:
 
-The model demonstrates an impressive overall accuracy of approximately 99%, signifying its ability to correctly predict the class for nearly 99% of instances—a notably high achievement. Adding to this accomplishment, the model's F1-score, which gauges the balance between precision and recall, is also around 99%, emphasizing the exceptional equilibrium in its predictive performance.
+The model's outstanding overall accuracy, approaching 99%, prompts consideration of potential overfitting. In addition to this achievement, the model's F1-score, assessing the equilibrium between precision and recall, also hovers around 99%, providing additional indication of potential overfitting.
 
 Moreover, when we delve into the specifics, the F1-score for class 0, representing healthy loans, reaches an outstanding 100%, underscoring the model's precision and recall harmony for this class. However, for class 1, corresponding to high-risk loans, the F1-score slightly decreases to 85%.
 
